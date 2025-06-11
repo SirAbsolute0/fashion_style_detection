@@ -1,9 +1,0 @@
-digest: b935cbd8
-name: dataset
-profile: '{"features_shape": [111, 10], "features_size": 1110, "features_nbytes":
-  8880}'
-schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
-  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": null}}'
-source: '{"tags": {"mlflow.user": "Phuong Hoang Dinh", "mlflow.source.name": "C:\\ProgramData\\anaconda3\\envs\\Vision_AI_Env\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
