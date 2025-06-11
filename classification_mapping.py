@@ -1,0 +1,1 @@
+CLASSIFICATION_MAPPING = {"athletic" : 0, "baggy" : 1, "old_money" : 2, "skinny" : 3}
